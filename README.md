@@ -6,14 +6,14 @@ Electronics & Communication Engineering Student | Embedded Systems | IoT | Edge 
 I'm a passionate **B.E. Electronics & Communication Engineering** student at **Sri Ramakrishna Engineering College, Coimbatore**, graduating in **2028**.
 I enjoy building intelligent embedded systems that bridge hardware and software to solve real-world problems. My interests span **Embedded Systems, Internet of Things (IoT), Edge AI, TinyML, Microcontrollers, and Sustainable Technology**. I love exploring how AI can be deployed on resource-constrained devices to create efficient, reliable, and impactful solutions.
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 B.E. Electronics & Communication Engineering (2024–2028)
-* 🏫 Sri Ramakrishna Engineering College, Coimbatore
-* 🌱 Currently learning Embedded AI, Edge Computing, TinyML, and Advanced IoT Systems
-* 💻 Passionate about hardware-software integration
-* 🔬 Interested in industrial automation, smart sensing, and intelligent embedded applications
-* ⚡ Solving programming problems using Java while continuously improving my development skills
+*  B.E. Electronics & Communication Engineering (2024–2028)
+*  Sri Ramakrishna Engineering College, Coimbatore
+*  Currently learning Embedded AI, Edge Computing, TinyML, and Advanced IoT Systems
+*  Passionate about hardware-software integration
+*  Interested in industrial automation, smart sensing, and intelligent embedded applications
+*  Solving programming problems using Java while continuously improving my development skills
 
 ### Tech Stack
 
@@ -50,9 +50,9 @@ I enjoy building intelligent embedded systems that bridge hardware and software 
 * MATLAB & Simulink
 * App Lab
 
-# 📌 Featured Projects
+#  Featured Projects
 
-## 🌿 EcoVigil Mesh
+##  EcoVigil Mesh
 
 An intelligent Industrial IoT safety system that combines distributed sensing, Edge AI, and offline communication to improve worker safety in hazardous industrial environments.
 
@@ -66,7 +66,7 @@ An intelligent Industrial IoT safety system that combines distributed sensing, E
 * Mesh Communication
 * Industrial IoT
 
-## 🪟 IoT Based Smart Window Automation System
+##  IoT Based Smart Window Automation System
 
 A smart automation system that monitors environmental conditions using sensors and automatically controls window movement while supporting IoT-based monitoring and manual control.
 
@@ -80,7 +80,7 @@ A smart automation system that monitors environmental conditions using sensors a
 * DC Motor
 * L298N Motor Driver
 
-# 🌱 Currently Exploring
+#  Currently Exploring
 
 * Embedded AI
 * TinyML
@@ -91,7 +91,7 @@ A smart automation system that monitors environmental conditions using sensors a
 * Java Programming
 * Data Structures & Algorithms
 
-# 💡 Areas of Interest
+#  Areas of Interest
 
 * Embedded Systems
 * Internet of Things
@@ -102,12 +102,12 @@ A smart automation system that monitors environmental conditions using sensors a
 * Sustainable Engineering
 * Smart Devices
 
-# 🌍 Languages
+#  Languages
 
 * Tamil
 * English
 
-# 📈 2026 Goals
+#  2026 Goals
 
 * Build impactful Embedded AI projects
 * Master Data Structures & Algorithms
@@ -119,8 +119,8 @@ A smart automation system that monitors environmental conditions using sensors a
 
  🤝 Connect With Me
 
-* 💼 LinkedIn https://www.linkedin.com/in/sadhana-sri-s-m-235073325
-* 💻 LeetCode https://leetcode.com/u/Sadhana_sri/
-* 📧 Email sadhanasri.2402208@srec.ac.in
+*  LinkedIn https://www.linkedin.com/in/sadhana-sri-s-m-235073325
+*  LeetCode https://leetcode.com/u/Sadhana_sri/
+*  Email sadhanasri.2402208@srec.ac.in
 
 ⭐ *"Building intelligent embedded systems that connect hardware, software, and AI to create practical solutions for real-world challenges."*
