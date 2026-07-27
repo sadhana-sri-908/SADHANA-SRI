@@ -18,9 +18,9 @@ I enjoy building intelligent embedded systems that bridge hardware and software 
 ### Tech Stack
 
 # Programming Languages
-~ C
-~ Python
-~ Java
+* C
+* Python
+* Java
 
 ## Embedded & Hardware
 
